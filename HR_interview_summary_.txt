@@ -1,0 +1,45 @@
+
+# Cisco SRE Interview with Erica
+
+## Action Items
+
+- Prepare for hiring‑manager interview (technical deep‑dive, production scenarios)
+- Review Sysco Shop & API Central architecture basics; note any e‑commerce reliability questions
+- Align schedule for interview slot before 10:30 am (morning availability)
+- Send a brief thank‑you email to Erica confirming next steps and any follow‑up questions
+
+## Candidate Background
+
+- 6+ years SRE & technical operations, primarily AWS
+- HealthPartners: led incident management, RCA, partnered with Level 1 support & engineering
+- University of Houston: built monitoring for 99.9 % availability, contributed to AWS migration
+- Netcracker: DevOps automation (Python, Docker, CI/CD), high‑availability production support
+
+## Reason for Looking
+
+- Contract at HealthPartners ending soon; seeking full‑time, long‑term role
+- Wants to apply enterprise cloud expertise at a globally scaled organization
+- Interested in hybrid work model and collaborating with offshore SRE teams
+
+## Role Fit & Team
+
+- Sysco Shop & API Central handle \~40 B transactions; heavy production load aligns with Pavan’s experience
+- Comfortable with Java, JavaScript, Spring Boot, Jenkins, Terraform – matches job description
+- Prior offshore SRE & DevOps collaboration makes the distributed model natural
+
+## Compensation Discussion
+
+- Midpoint quoted around $105 k, range $105‑$118 k plus 5 % bonus
+- Pavan indicated the range is acceptable, pending deeper technical interview
+
+## Interview Process Overview
+
+- Two‑step process: hiring‑manager interview → Sri Lanka team interview
+- Preferred interview window: mornings before 10:30 am
+- Erica will submit application to hiring manager and follow up via email
+
+## Additional Notes
+
+- No visa sponsorship needed; OPT → H‑4 possible if required
+- Location: Sugarland (near Houston); hybrid schedule (Mon‑Wed onsite, Thu‑Fri remote)
+- Pavan has no remaining questions; will reach out if any arise before next round.

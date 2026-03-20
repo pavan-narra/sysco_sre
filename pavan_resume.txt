@@ -1,0 +1,62 @@
+Pavan Kalyan Narra
+Sugar Land, TX | narrap0121@gmail.com | 832-870-1066
+
+Professional Summary
+
+Site Reliability Engineer with 6+ years supporting mission-critical web applications and enterprise cloud platforms within technical operations support environments. Experienced in AWS cloud operations, production support, incident management, and root cause analysis maintaining highly reliable distributed systems.Skilled improving monitoring and alerting strategies using Datadog, Splunk, and New Relic, enhancing system observability and operational efficiency across cloud-based production environments.
+
+Core Skills
+
+Cloud Platforms: AWS, cloud infrastructure operations, cloud services
+Monitoring & Observability: Datadog, Splunk, New Relic, Nagios, APM tools, system monitoring, alerting systems, log analysis
+Site Reliability Engineering: incident management, root cause analysis, production support, reliability engineering, SLA/SLO monitoring, high availability systems
+DevOps & Automation: CI/CD pipelines, Docker, Python automation, release automation, infrastructure automation
+Infrastructure & Architecture: distributed systems, system architecture, cloud integrations, enterprise application support
+Operations & Support: issue tracking strategy, incident response, operational runbooks, technical documentation, troubleshooting
+Development Practices: Agile development environment, DevOps collaboration, cross-team engineering support
+
+Professional Experience
+
+Site Reliability Engineer | HealthPartners | May 2025 – Present
+
+Developed and refined incident management and issue tracking strategies from intake through resolution, improving response efficiency by 25% while strengthening monitoring processes and operational documentation.
+Led collaboration with DevOps, platform engineering, and application teams improving system architecture flexibility, service reliability, and performance efficiency across enterprise cloud production systems.
+Partnered with platform teams to enhance monitoring, alerting systems, and observability using Datadog and Splunk, enabling proactive detection of operational issues before service disruption.
+Conducted detailed root cause analysis on recurring production incidents affecting internal and customer-facing applications, implementing corrective actions that significantly improved system reliability.
+Maintained deep understanding of enterprise system architecture, system integrations, and AWS cloud service dependencies supporting reliable operations across distributed production environments.
+Collaborated with Level 1 support teams, engineering groups, and platform specialists to streamline operational processes reducing incident response time and improving production support effectiveness.
+Evaluated technology strategies alongside SRE leadership ensuring alignment with reliability engineering principles, governance standards, and long-term operational sustainability initiatives.
+Supported 24/7 on-call production environments, troubleshooting service disruptions and restoring applications quickly while maintaining high availability systems across enterprise cloud infrastructure.
+
+
+Site Reliability Engineer | University of Houston | Sep 2023 – Apr 2025
+
+Implemented monitoring and observability solutions using Datadog and Splunk, improving system visibility and maintaining 99.9% service availability across critical university digital platforms.
+Collaborated with DevOps, engineering, and support teams streamlining operational processes reducing response time for technical issues by 20% across enterprise application environments.
+Assisted engineering teams migrating applications to AWS cloud infrastructure, improving scalability, reliability, and operational resilience across campus-wide distributed services.
+Conducted technical training sessions and created operational documentation enabling Level 1 support teams to troubleshoot issues faster and reduce escalation frequency.
+Reviewed distributed system architectures and infrastructure configurations recommending performance improvements increasing application reliability across multiple enterprise platforms.
+Supported Agile development teams performing incident troubleshooting, monitoring implementation, and post-incident root cause analysis within DevOps-driven delivery environments.
+
+DevOps Engineer | Netcracker | Aug 2021 – Jul 2023
+
+Automated application deployment workflows using CI/CD pipelines and scripting automation reducing deployment cycle times by 30% while improving production release reliability.
+Developed Python automation scripts streamlining operational tasks including log analysis, configuration validation, and routine system checks saving engineering teams approximately 15 hours weekly.
+Implemented containerization strategies using Docker, improving application portability, environment consistency, and deployment reliability across staging and production environments.
+Monitored production application performance using New Relic APM tools, identifying performance bottlenecks and reducing application latency by 20%.
+Assisted engineering teams with incident troubleshooting, performing log analysis and supporting root cause investigations during production outages.
+Created deployment runbooks, monitoring documentation, and troubleshooting guides supporting operational readiness across enterprise application environments.
+
+Operations Engineer | Netcracker | Jun 2019 – Jul 2021
+
+Supported critical operational systems ensuring 99.9% uptime and maintaining high availability services through proactive monitoring, troubleshooting, and operational support across enterprise infrastructure.
+Assisted implementing security protocols and vulnerability mitigation practices reducing security incidents by 40% while strengthening compliance and operational governance across production systems.
+Conducted system audits and performance monitoring checks identifying optimization opportunities and improving infrastructure resource allocation across distributed enterprise environments.
+Collaborated with engineering teams resolving production incidents, performing log analysis and troubleshooting system issues ensuring minimal disruption to critical operational services.
+Maintained technical documentation, operational procedures, and support runbooks enabling faster troubleshooting and improved operational consistency across engineering and support teams.
+Assisted with infrastructure monitoring, service health validation, and operational reporting improving reliability and visibility across enterprise application environments.
+
+Education
+Master of Science in Computer Science
+University of Houston
+
